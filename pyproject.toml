@@ -1,0 +1,10 @@
+[project]
+name = "autoshark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autosar-data>=0.10.1",
+    "maturin>=1.7.8",
+]
